@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherXML</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="city">Város</string>
+    <string name="temperature">Hőmérséklet</string>
+    <string name="celsius"></string>
+    <string name="wind">Szél sebesség</string>
+    <string name="weatherbutton">Időjárás</string>
+
+
+</resources>
